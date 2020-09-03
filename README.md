@@ -3,10 +3,4 @@ Predciting Human Mobility via Variational Attention
 
 # Notes
 Pleas cite:
-@inproceedings{gao2019predicting,
-  title={Predicting human mobility via variational attention},
-  author={Gao, Qiang and Zhou, Fan and Trajcevski, Goce and Zhang, Kunpeng and Zhong, Ting and Zhang, Fengli},
-  booktitle={The World Wide Web Conference},
-  pages={2750--2756},
-  year={2019}
-}
+Gao Q, Zhou F, Trajcevski G, Zhang K, Zhong T, Zhang F. Predicting human mobility via variational attention. InThe World Wide Web Conference 2019 May 13 (pp. 2750-2756).
